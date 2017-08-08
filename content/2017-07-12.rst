@@ -1,0 +1,11 @@
+Juli Treffen
+============
+:date: 2017-07-12
+:category: News
+
+Das Programm steht noch nicht fest.
+
+Wir suchen noch Themen! Wenn Du einen Vortrag halten oder andere Programmpunkte anmelden willst, schreibe einfach auf die Mailingliste! Daneben gibt es Raum für spontan eingebrachte Themen, z.B. Buch- und Programm-Vorstellungen, Fragen, Ankündigungen und alles was euch so zum Thema Python einfällt.
+
+Weitere Vorschläge und Wünsche, auch für spätere Treffen, sind willkommen!
+Einfach auf der Mailingliste äußern.

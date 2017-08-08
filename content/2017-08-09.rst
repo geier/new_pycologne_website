@@ -1,0 +1,36 @@
+9. August 2017
+==============
+:date: 2017-08-09
+:category: News
+
+Das nächste Treffen findet statt am:
+
+Datum:
+  Mi, 9.8,.2017
+Uhrzeit:
+  19:00
+Ort:
+  Chaos Computer Club Cologne, Heliosstr. 6a 50825 Köln
+
+
+Programm
+--------
+* Bericht von der Europython - Stephan Porz
+* Bericht vom Arbeitswochenende PySV-Vorstand - Thomas Fabula
+* dict-Neuerungen in CPython 3.6 - Stefan Hagen
+* type hinting in Python 3.6 - Henning Dickten
+* 10 Optimierungen die man (fast) nie benutzen sollte - Christian Geier
+
+
+Ab ca. 21:00 Uhr werden wir den Abend gemütlich in einer nahe gelegenen
+Kneipe (Herbrands) ausklingen lassen.
+
+Hast Du vor, zu kommen oder bist verhindert? Sag' uns unverbindlich
+über Meetup_ Bescheid.
+
+Etherpad `Protokoll <https://yourpart.eu/p/pyc_20170809>`_
+
+
+.. _Meetup: http://www.meetup.com/pyCologne/
+
+
